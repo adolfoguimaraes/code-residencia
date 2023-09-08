@@ -1,2 +1,7 @@
-# code-residencia
-Codigo para disciplina de residencia
+# Projeto 1
+
+Este é meu projeto da disciplina de residência.
+
+## Instalação
+
+Detalhes da instalação.
